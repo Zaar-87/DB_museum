@@ -5,10 +5,10 @@
 3. Нарисовать взаимосвязи таблиц (miro/draw.io/excel).
 4. Написать сценарий использования созданной базы данных.
 
-Сценарий использования созданной базы данных находится в файле - ["DB_scenario.md"]()
+Сценарий использования созданной базы данных находится в файле - ["DB_scenario.md"](https://github.com/Zaar-87/DB_museum/blob/temp_branch/DB_scenario.md)
 
-Таблицы представлены в файле ["DB_excel.xlsx"]()
+Таблицы представлены в файле ["DB_excel.xlsx"](https://github.com/Zaar-87/DB_museum/blob/temp_branch/DB_excel.xlsx)
 
-Взаимосвязи таблиц представлены в файле ["DB_diagram.png"]()
+Взаимосвязи таблиц представлены в файле ["DB_diagram.png"](https://github.com/Zaar-87/DB_museum/blob/temp_branch/DB_diagram.png)
 
-Фотографии располагаются в папке ["_img"]()
+Фотографии располагаются в папке ["_img"](https://github.com/Zaar-87/DB_museum/tree/temp_branch/_img)
